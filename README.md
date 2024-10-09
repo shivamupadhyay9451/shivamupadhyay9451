@@ -30,10 +30,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamupadhyay9451&show_icons=true&theme=default)
 
 ### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamupadhyay9451&layout=compact&theme=default)
 
 ---
 
