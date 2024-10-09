@@ -37,4 +37,5 @@
 
 ---
 
-<div style="color: yellow;">Thanks for visiting my profile! I'm always open to networking and exploring new opportunities. Feel free to reach out!</div>
+**Thanks for visiting my profile!**  
+*I'm always open to networking and exploring new opportunities. Feel free to reach out!*
