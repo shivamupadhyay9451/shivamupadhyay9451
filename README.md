@@ -1,4 +1,4 @@
-                                                       # Hi there, I'm [Shivam Upadhyay]! 👋
+                                                       # 👋 **HI THERE, I'M [Shivam Upadhyay]!**
 
 I am a Python programmer with a strong focus on building efficient, scalable, and high-quality applications. I enjoy tackling complex problems, automating workflows, and leveraging Python's extensive libraries for everything from web development to data analysis.
 
