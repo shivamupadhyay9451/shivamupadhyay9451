@@ -1,15 +1,19 @@
-# Hi there, I'm [Shivam upadhyay]! 👋
+                                                       # Hi there, I'm [Shivam Upadhyay]! 👋
 
 I am a Python programmer with a strong focus on building efficient, scalable, and high-quality applications. I enjoy tackling complex problems, automating workflows, and leveraging Python's extensive libraries for everything from web development to data analysis.
 
 ---
 
 ### 🔍 About Me
-- 💼 I’m currently working on: [Your Project Name](link_to_project) — an innovative project that [brief description of the project’s goals or what it solves].
-- 🌱 I’m currently learning: Advanced data science techniques, Django, and API integrations.
+- 💼 I’m currently working on: [AI text summarizer app] — an innovative project.
+- 🌱 I’m currently learning: DSA,Advanced data science techniques, Django,Rest API and API integrations.
 - 🤝 I’m looking to collaborate on: Open-source Python projects and AI/ML applications.
 - 💬 Ask me about: Python, Data Structures, Git, and Agile Development.
-- 📫 Reach me at: [Your Email](mailto:your.email@example.com) | [LinkedIn](link_to_linkedin_profile) | [Twitter](link_to_twitter_profile)
+- 📫 Reach me at:
+  - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](link_to_linkedin_profile)
+  - [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat-square)](link_to_hackerrank_profile)
+  - [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white&style=flat-square)](link_to_codechef_profile)
+  - [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square)](link_to_leetcode_profile)
 
 ---
 
@@ -22,6 +26,24 @@ I am a Python programmer with a strong focus on building efficient, scalable, an
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 
+---
+
+### 📊 GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+
+### 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=default)
+
+---
+
+### 📈 My Recent Projects
+- **[Project 1](link_to_project1)**: Brief description of the project and its purpose.
+- **[Project 2](link_to_project2)**: Brief description of the project and its purpose.
+- **[Project 3](link_to_project3)**: Brief description of the project and its purpose.
+
+---
+
+Thanks for visiting my profile! I’m always open to networking and exploring new opportunities. Feel free to reach out! 😊
 <!---
 shivamupadhyay9451/shivamupadhyay9451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
