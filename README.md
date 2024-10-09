@@ -1,4 +1,4 @@
-<h1 align="center"> Welocome to my profile. I'm Shivam Upadhyay 👋</h1>
+<h1 align="center"> Hi,I'm Shivam Upadhyay👋</h1>
 
 <p align="center">A passionate competitive programmer and Python developer focused on building efficient, scalable, and high-quality applications. I enjoy tackling complex problems, automating workflows, and leveraging Python's extensive libraries for everything from web development to data analysis.</p>
 
