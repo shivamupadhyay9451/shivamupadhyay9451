@@ -37,7 +37,7 @@
 
 ---
 
-<div style ="color:skyblue;"Thanks for visiting my profile! I’m always open to networking and exploring new opportunities. Feel free to reach out!</div>😊
+<div style ="color:skyblue;"Thanks for visiting my profile! I’m always open to networking and exploring new opportunities. Feel free to reach out!😊
 <!---
 shivamupadhyay9451/shivamupadhyay9451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
