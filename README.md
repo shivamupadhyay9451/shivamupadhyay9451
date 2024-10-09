@@ -38,4 +38,4 @@
 ---
 
 **Thanks for visiting my profile!**  
-*I'm always open to networking and exploring new opportunities. Feel free to reach out!*
+*I'm always open to networking and exploring new opportunities. Feel free to reach out!*[shivamupadhyay9451@gmail.com]
