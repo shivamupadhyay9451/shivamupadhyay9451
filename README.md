@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning: DSA,Advanced data science techniques, Django,Rest API and API integrations.
 - 🤝 I’m looking to collaborate on: Open-source Python projects and AI/ML applications.
 - 💬 Ask me about: Python, Data Structures and Algorithm, javascript,API and Rest API.
-- 📫 You can reach me at: [shivamupadhyay9451@gmail.com]
+- 📫 You can reach me at:- [shivamupadhyay9451@gmail.com]
 - 📫 <span style="color:yellow;">**Let's Connect!**</span>
 
   - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](link_to_linkedin_profile)
