@@ -1,6 +1,6 @@
 <h1 align="center"> Hi,I'm Shivam Upadhyay👋</h1>
 
-<p align="center">**A passionate competitive programmer and Python developer focused on building efficient, scalable, and high-quality applications. I enjoy tackling complex problems,contributing to open-source project,and continuously advancing my skill in software development and competitive programming**.</p>
+<p align="center">**A passionate competitive programmer and Python developer focused on building efficient, scalable, and high-quality applications. I enjoy tackling complex problems,contributing to open-source project,and continuously advancing my skill in software development and competitive programming.**</p>
 
 ---
 
