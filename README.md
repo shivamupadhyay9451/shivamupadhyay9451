@@ -8,7 +8,7 @@
 - 💼 I’m currently working on: [AI text summarizer app] — an innovative project.
 - 🌱 I’m currently learning: DSA,Advanced data science techniques, Django,Rest API and API integrations.
 - 🤝 I’m looking to collaborate on: Open-source Python projects and AI/ML applications.
-- 💬 Ask me about: Python, Data Structures and Algorithm, javascript,API and Rest api.
+- 💬 Ask me about: Python, Data Structures and Algorithm, javascript,API and Rest API.
 - 📫 You can reach me at: [shivamupadhyay9451@gmail.com]
 - 📫 <span style="color:yellow;">**Let's Connect!**</span>
 
