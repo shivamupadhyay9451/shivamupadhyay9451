@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning: DSA,Advanced data science techniques, Django,Rest API and API integrations.
 - 🤝 I’m looking to collaborate on: Open-source Python projects and AI/ML applications.
 - 💬 Ask me about: Python, Data Structures and Algorithm, javascript,API and Rest api.
-- 📫 <span style="color: #FFD700;">**Let's Connect!**</span>
+- 📫 <span style="color:yellow;">**Let's Connect!**</span>
 
   - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](link_to_linkedin_profile)
   - [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat-square)](link_to_hackerrank_profile)
