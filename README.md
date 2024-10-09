@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/API-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="30" />
     <img src="https://img.shields.io/badge/RESTAPI-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="30" />
     <img src="https://img.shields.io/badge/Java-1572B6?style=flat&logo=css3&logoColor=pink" alt="CSS3" height="30" />
-    <img src="https://img.shields.io/badge/SQL-1572B6?style=flat&logo=css3&logoColor=green" alt="CSS3" height="30" />
+    <img src="https://img.shields.io/badge/SQL-1572B6?style=circle&logo=css3&logoColor=green" alt="CSS3" height="30" />
 
 
 </div>
